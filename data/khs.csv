@@ -1,0 +1,11 @@
+id,short,long,old_short,old_long,address,nr,zip,city
+1,KDO,Klinik Donaustadt,"DSP, SMZO",Donauspital,Langobardenstraße,122,1220,Wien
+2,KFL,Klinik Floridsdorf,KHN,KH Nord,Brünner Straße,68–70,1210,Wien
+3,KFN,Klinik Favoriten,KFJ,"Kaiser-Franz-Josef-Spital, SMZ-Süd",Kundratstraße,3,1100,Wien
+4,KHI,Klinik Hietzing,"KHH, KHL","Krankenhaus Hietzing, Krankenhaus Lainz",Wolkersbergenstraße,1,1130,Wien
+5,KLA,Klinik Landstraße,RUD,Rudolfsstiftung,Juchgasse,25,1030,Wien
+6,KOR,Klinik Ottakring,WIL,Wilheminenspital,Montlearstraße,27,1160,Wien
+7,KPE,Klinik Penzing,OWS,"Otto-Wagner-Spital, Baumgartner Höhe",Baumgartner Höhe,1,1140,Wien
+8,AKH,AKH,"","",Währinger Gürtel,18-20,1090,Wien
+9,TZ20,Traumazentrum Wien Standort Lorenz Böhler,"LBK, WIBÖH",Böhler,Donaueschingenstraße,13,1200,Wien
+10,TZ12,Traumazentrum Wien Standort Meidling,UKH,UKH Meidling,Kundratstraße,37,1120,Wien
